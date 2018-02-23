@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "570809221769",
+    "firebase_url": "https://cloudinagram.firebaseio.com",
+    "project_id": "cloudinagram",
+    "storage_bucket": "cloudinagram.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570809221769:android:b06d4e05e4c86a72",
+        "android_client_info": {
+          "package_name": "com.example.ekene.cloudinagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "570809221769-4bnm05hsmotmqm2vp75cvk2e2qv8g803.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ekene.cloudinagram",
+            "certificate_hash": "89df3f7b512058ac1f255f51d70722c99d8f025d"
+          }
+        },
+        {
+          "client_id": "570809221769-u4pdib8gft5gapvm3fvsdb3m9gecjqso.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCn8PYEWP7jJi8MhjO4xPwRfaw7sS9Ib0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "570809221769-u4pdib8gft5gapvm3fvsdb3m9gecjqso.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
